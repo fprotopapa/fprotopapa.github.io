@@ -30,7 +30,7 @@ panel:
 copyright:
   # Shown at the bottom of the post
   license:
-    template: Ten post jest udostępniony pod licencją :LICENSE_NAME przez autora.
+    template: Ten artykuł jest udostępniony przez autora pod licencją :LICENSE_NAME.
     name: CC BY-NC 4.0
     link: https://creativecommons.org/licenses/by-nc/4.0/legalcode.pl
 
@@ -52,19 +52,19 @@ notification:
 # ----- Posts related labels -----
 
 post:
-  written_by: Od
-  posted: Opublikowany
+  written_by: przez
+  posted: Opublikowano
   updated: Aktualizowany
   words: słowa
   pageview_measure: wyświetlenia
   read_time:
     unit: min
-    prompt: czytaj
+    prompt: Czas czytania
   relate_posts: Czytaj dalej
   share: Udostępnij
   button:
     next: Nowsze
-    previous: Starze
+    previous: Starsze
     copy_code:
       succeed: Skopiowane!
     share_link:
