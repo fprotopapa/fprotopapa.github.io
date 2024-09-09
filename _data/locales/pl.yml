@@ -63,8 +63,8 @@ post:
   relate_posts: Czytaj dalej
   share: Udostępnij
   button:
-    next: Nowsze
-    previous: Starsze
+    next: Następni
+    previous: Poprzedni
     copy_code:
       succeed: Skopiowane!
     share_link:
